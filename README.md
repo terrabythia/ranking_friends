@@ -1,2 +1,2 @@
-# rankink_friends
+# ranking_friends
 Flutter game
